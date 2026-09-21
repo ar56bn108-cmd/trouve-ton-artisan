@@ -14,7 +14,7 @@ app.use(helmet());
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://trouve-ton-artisan-production-e385.up.railway.app",
   }),
 );
 
