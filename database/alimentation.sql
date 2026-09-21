@@ -1,4 +1,4 @@
-USE trouve_ton_artisan;
+USE railway;
 
 INSERT INTO categories (nom) VALUES
 ('Alimentation'),
